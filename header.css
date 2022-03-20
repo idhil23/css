@@ -56,9 +56,6 @@
   border-radius: 7px;
 }
 
-::-webkit-scrollbar-thumb:horizontal {
-  top:50px;
-}
 body {
   color: var(--🌈);
   background: var(--🖼️);
