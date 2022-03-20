@@ -52,6 +52,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
+  top:50px;
   background: var(--🎨);
   border-radius: 7px;
 }
